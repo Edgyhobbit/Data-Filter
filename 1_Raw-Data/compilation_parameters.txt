@@ -1,0 +1,13 @@
+filename         : raw_data # Name of the file with the compiled database
+min_lat          : 63.9     # Minimun Latitude
+max_lat          : 64.25    # Maximun Latitude
+min_lon          : -21.55   # Minimun Longitude
+max_lon          : -21.05   # Maximun Longitude
+max_depth        : 15       # Maximun Depth
+max_GAP          : 180      # maximun Gap
+max_RMS          : 0.5      # maximun RMS
+min_mag          : -3       # minimun magnitude
+NUM_STA_MIN      : 5        # minimun number of station to be detected so the event can be considered
+txt_FLAG         : TRUE     # compile events in txt file
+cnv_FLAG         : TRUE     # compile events in cnv format file
+nordic_FLAG      : TRUE     # compile events in nordic format file
